@@ -1,8 +1,13 @@
-/* Space out content a bit */
 body {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .header,
@@ -10,6 +15,14 @@ body {
 .footer {
   padding-right: 15px;
   padding-left: 15px;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+.footer {
+  font-size: 13px;
 }
 
 .social {
@@ -21,20 +34,16 @@ body {
 }
 
 .section h2 {
-  font-size: 1.8em;
+  font-size: 24px;
   margin-top: 0;
 }
 
 .browser {
-  font-size: 1.4em;
+  font-size: 20px;
 }
 
 .col-center {
   text-align: center;
-}
-
-.donations {
-  font-size: 1.4em;
 }
 
 .header {
@@ -48,7 +57,7 @@ body {
 }
 
 .footer {
-  padding-top: 19px;
+  padding-top: 12px;
   color: #777;
   border-top: 1px solid #e5e5e5;
 }
@@ -72,7 +81,8 @@ body {
 }
 
 .section {
-  margin: 40px 0;
+  /*margin: 40px 0;*/
+  margin: 0 0;
 }
 .section p + h4 {
   margin-top: 28px;
