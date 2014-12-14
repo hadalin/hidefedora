@@ -1,0 +1,7 @@
+# Site settings
+title: Hide Fedora
+description: > # this means to ignore newlines until "baseurl:"
+    Open source and free browser extension that removes annoying YouTube troll comments.
+baseurl: ""
+url: "https://hadalin.github.io/hidefedora"
+exclude: [Gemfile, Gemfile.lock]
