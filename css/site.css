@@ -10,6 +10,14 @@ hr {
   margin-bottom: 30px;
 }
 
+.centered {
+  text-align: center;
+}
+
+img.featured {
+  margin: 0 20px;
+}
+
 .header,
 .section,
 .footer {
@@ -81,7 +89,6 @@ hr {
 }
 
 .section {
-  /*margin: 40px 0;*/
   margin: 0 0;
 }
 .section p + h4 {
