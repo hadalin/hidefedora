@@ -69,6 +69,12 @@ img.featured {
   color: #777;
   border-top: 1px solid #e5e5e5;
 }
+.footer a,
+.footer a:active,
+.footer a:visited,
+.footer a:hover {
+  color: #777;
+}
 
 @media (min-width: 768px) {
   .container {
