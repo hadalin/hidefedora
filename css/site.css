@@ -18,6 +18,17 @@ img.featured {
   margin: 0 20px;
 }
 
+.discontinued {
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .header,
 .section,
 .footer {
